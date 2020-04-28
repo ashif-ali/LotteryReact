@@ -1,0 +1,2 @@
+# LotteryReact
+Created with CodeSandbox
